@@ -1,0 +1,27 @@
+.sec{
+    background-image: url("./image/log_bg.jpg");
+    padding: 130px 0 0 0;
+}
+.login-form{
+    background-color: white;
+    padding: 30px 100px 0 100px;
+    border-radius:20px 20px 0 0;
+}
+
+#btnn{
+    width:100%;
+    border-radius:30px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+h1{
+    color:#0083d0;
+    margin-bottom:50px;
+}
+.lbl{
+    text-align: left;
+}
+.text-field{
+    margin-top: 20px;
+    border-radius: 30px;
+}
